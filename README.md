@@ -12,8 +12,8 @@ A full-stack skill exchange platform that connects people who want to learn and 
 
 ## 🚀 Live Demo
 
-- **Frontend**: https://skillswap-frontend.vercel.app
-- **Backend**: https://skillswap-backend.onrender.com
+- **Frontend**: [https://skillswap-frontend.vercel.app](https://skillswap-2.vercel.app/)
+- **Backend**: [https://skillswap-backend.onrender.com](https://skillswap-backend-byn4.onrender.com)
 - **API Health**: https://skillswap-backend.onrender.com/health
 
 ## 📸 Screenshots
